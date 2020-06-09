@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/kayahresources0169/kayahresources/_apis/build/status/yu5uf1440.ContosoAir?branchName=master)](https://dev.azure.com/kayahresources0169/kayahresources/_build/latest?definitionId=1&branchName=master)
 
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository
 
 
 # Microsoft.Github CI Demo
